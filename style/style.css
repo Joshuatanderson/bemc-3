@@ -39,11 +39,11 @@
 }
 
 #profile-0{
-    background-image: url(../img/profile-bill.jpeg);
+    background-image: url("../img/profile-bill.jpeg");
     background-size: cover;
 }
 #profile-1{
-    background-image: url(../img/profile-stephen.png);
+    background-image: url("../img/profile-stephen.png");
     background-size: cover;
 }
 
